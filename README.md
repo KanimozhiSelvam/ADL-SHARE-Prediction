@@ -1,7 +1,6 @@
 # Activities of Daily Living (ADL) Decline Prediction
 
-## Contributors: Zhijie TU , Xiaomin Xia
-
+## Contributors: Zhijie TU , Xiaomin Xia and Kanimozhi Selvam
 ## Project Overview
 
 This project investigates whether baseline characteristics can predict the development of a **new Activities of Daily Living (ADL) limitation** among adults aged 65+ using longitudinal SHARE/easySHARE survey data.
