@@ -1,0 +1,139 @@
+Variable,Type,Data type,Unique values,Missing (%)
+born_in_interview_country,Binary categorical,float64,2,5.65
+child_in_household,Binary categorical,float64,2,31.04
+child_within_1km,Binary categorical,float64,2,31.01
+current_smoker,Binary categorical,float64,2,24.72
+early_retirement_preference,Binary categorical,float64,2,97.57
+euro1,Binary categorical,float64,2,20.64
+euro10,Binary categorical,float64,2,20.88
+euro11,Binary categorical,float64,2,20.77
+euro12,Binary categorical,float64,2,20.65
+euro2,Binary categorical,float64,2,20.88
+euro3,Binary categorical,float64,2,20.87
+euro4,Binary categorical,float64,2,20.9
+euro5,Binary categorical,float64,2,20.54
+euro6,Binary categorical,float64,2,20.7
+euro7,Binary categorical,float64,2,20.66
+euro8,Binary categorical,float64,2,20.44
+euro9,Binary categorical,float64,2,20.67
+ever_smoked_binary,Binary categorical,float64,2,18.93
+father_alive_binary,Binary categorical,float64,2,8.55
+female,Binary categorical,int8,2,0.0
+gender_partner,Binary categorical,float64,2,35.04
+given_help,Binary categorical,float64,2,25.4
+grip_low,Binary categorical,float64,2,12.04
+hospital_stay,Binary categorical,float64,2,5.72
+living_with_partner,Binary categorical,int64,2,0.0
+mother_alive_binary,Binary categorical,float64,2,8.31
+nursing_home_stay,Binary categorical,float64,2,7.02
+partner_interview_available,Binary categorical,float64,2,35.04
+received_help,Binary categorical,float64,2,18.65
+vaccinated_binary,Binary categorical,float64,2,73.71
+age,Continuous,float32,390,0.0
+age_partner,Continuous,float32,643,35.06
+bmi,Continuous,float32,4710,9.22
+eduyears_mod,Continuous,float32,32,10.03
+ep013_mod,Continuous,float64,96,97.41
+hc002_log,Continuous,float64,78,6.9
+log_income_eq,Continuous,float32,147414,18.5
+maxgrip,Continuous,float64,92,12.04
+thinc_m,Continuous,float32,145481,18.5
+adla,Count / score,float64,6,5.75
+adla_clean,Count / score,float64,6,5.75
+casp,Count / score,float64,37,14.81
+ch001_,Count / score,float64,19,18.67
+ch021_mod,Count / score,float64,67,26.41
+chronic_mod,Count / score,float64,11,5.65
+eurod,Count / score,float64,13,22.02
+hc002_mod,Count / score,float64,91,6.9
+hhsize,Count / score,int8,13,0.0
+numeracy_1_worse,Count / score,float64,5,72.4
+recall_1_worse,Count / score,float64,11,9.11
+recall_2_worse,Count / score,float64,11,9.09
+recall_del,Count / score,float64,11,9.09
+recall_imm,Count / score,float64,11,9.11
+siblings_alive,Count / score,float64,28,28.74
+coupleid,Identifier / metadata,str,42125,0.0
+dn002_mod,Identifier / metadata,float64,12,0.03
+dn003_mod,Identifier / metadata,float64,58,0.0
+hh_key,Identifier / metadata,str,70139,0.0
+hhid,Identifier / metadata,str,70596,0.0
+int_month,Identifier / metadata,int8,12,0.0
+int_version,Identifier / metadata,float64,2,5.25
+int_year,Identifier / metadata,int16,17,0.0
+mergeid,Identifier / metadata,str,99787,0.0
+wave,Identifier / metadata,int8,9,0.0
+wavepart,Identifier / metadata,int32,482,0.0
+numeracy_2,Needs coding verification,float64,6,30.42
+birth_country,Nominal categorical,float64,155,0.78
+citizenship,Nominal categorical,float64,100,0.65
+country,Nominal categorical,category,29,0.0
+country_mod,Nominal categorical,int16,29,0.0
+ep005_,Nominal categorical,float64,6,6.99
+ep009_mod,Nominal categorical,float64,3,97.53
+iv009_mod,Nominal categorical,float64,5,9.71
+language,Nominal categorical,int8,44,0.0
+mar_stat,Nominal categorical,float64,6,5.68
+q34_re,Nominal categorical,float64,7,97.1
+sp003_1_mod,Nominal categorical,float64,29,79.55
+sp003_2_mod,Nominal categorical,float64,28,91.4
+sp003_3_mod,Nominal categorical,float64,24,97.01
+sp009_1_mod,Nominal categorical,float64,28,84.55
+sp009_2_mod,Nominal categorical,float64,28,95.77
+sp009_3_mod,Nominal categorical,float64,26,98.76
+activity_low,Ordinal categorical,float64,4,18.6
+bfi10_agree_mod,Ordinal categorical,float32,9,70.23
+bfi10_consc_mod,Ordinal categorical,float32,9,70.23
+bfi10_extra_mod,Ordinal categorical,float32,9,70.28
+bfi10_neuro_mod,Ordinal categorical,float32,9,70.21
+bfi10_open_mod,Ordinal categorical,float32,9,70.33
+books_age10,Ordinal categorical,float64,5,69.95
+br010_mod,Ordinal categorical,float64,7,66.14
+br015_,Ordinal categorical,float64,4,18.6
+childhood_health_ordered,Ordinal categorical,float64,5,73.27
+co007_,Ordinal categorical,float64,4,8.18
+ep011_mod,Ordinal categorical,float64,2,99.6
+ep026_mod,Ordinal categorical,float64,4,97.91
+isced,Ordinal categorical,float64,7,6.44
+isced1997_ordered,Ordinal categorical,float64,7,6.44
+language_age10,Ordinal categorical,float64,5,70.55
+maths_age10,Ordinal categorical,float64,5,70.51
+orienti,Ordinal categorical,float64,5,32.65
+sphus,Ordinal categorical,float64,5,0.37
+adlwa,Original (replaced by recode / functional index),float64,4,5.75
+bmi2,Original (replaced by recode / functional index),float64,4,9.2
+ch007_hh,Original (replaced by recode / functional index),float64,2,31.04
+ch007_km,Original (replaced by recode / functional index),float64,2,31.01
+childhood_health,Original (replaced by recode / functional index),float64,6,73.16
+dn004_mod,Original (replaced by recode / functional index),float64,2,5.65
+ep036_mod,Original (replaced by recode / functional index),float64,2,97.57
+ever_smoked,Original (replaced by recode / functional index),float64,2,18.93
+father_alive,Original (replaced by recode / functional index),float64,2,8.55
+finemotor,Original (replaced by recode / functional index),float64,4,5.84
+grossmotor,Original (replaced by recode / functional index),float64,5,5.84
+hc012_,Original (replaced by recode / functional index),float64,2,5.72
+hc029_,Original (replaced by recode / functional index),float64,3,7.02
+iadla,Original (replaced by recode / functional index),float64,4,5.75
+iadlza,Original (replaced by recode / functional index),float64,6,5.75
+int_partner,Original (replaced by recode / functional index),float64,2,35.04
+isced1997_r,Original (replaced by recode / functional index),float64,9,6.04
+lgmuscle,Original (replaced by recode / functional index),float64,5,5.67
+mobilityind,Original (replaced by recode / functional index),float64,5,5.84
+mother_alive,Original (replaced by recode / functional index),float64,2,8.31
+numeracy_1,Original (replaced by recode / functional index),float64,5,72.4
+partnerinhh,Original (replaced by recode / functional index),int8,2,0.0
+recall_1,Original (replaced by recode / functional index),float64,11,9.11
+recall_2,Original (replaced by recode / functional index),float64,11,9.09
+smoking,Original (replaced by recode / functional index),float64,2,24.72
+sp002_mod,Original (replaced by recode / functional index),float64,2,18.65
+sp008_,Original (replaced by recode / functional index),float64,2,25.4
+vaccinated,Original (replaced by recode / functional index),float64,2,73.71
+income_pct,Wave-specific income percentile,float64,10,18.6
+income_pct_w1,Wave-specific income percentile,float64,10,95.15
+income_pct_w2,Wave-specific income percentile,float64,10,93.95
+income_pct_w4,Wave-specific income percentile,float64,10,89.6
+income_pct_w5,Wave-specific income percentile,float64,10,87.24
+income_pct_w6,Wave-specific income percentile,float64,10,85.99
+income_pct_w7,Wave-specific income percentile,float64,10,95.96
+income_pct_w8,Wave-specific income percentile,float64,10,87.13
+income_pct_w9,Wave-specific income percentile,float64,10,83.57

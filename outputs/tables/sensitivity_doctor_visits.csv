@@ -1,0 +1,3 @@
+doctor-visit variable,LR(D) test AUC
+hc002_mod (raw),0.7837
+hc002_log (capped log1p),0.7836

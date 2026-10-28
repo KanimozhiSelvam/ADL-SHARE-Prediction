@@ -1,0 +1,10 @@
+,OR,CI_low,CI_high,p,odds change %,reading
+age (per 5),1.415,1.3837,1.447,0.0,41.4991,higher value -> higher risk
+female,0.7163,0.666,0.7703,0.0,-28.3736,higher value -> lower risk
+sphus,1.6632,1.6047,1.7238,0.0,66.316,higher value -> higher risk
+chronic_mod,1.0658,1.0432,1.0889,0.0,6.5832,higher value -> higher risk
+maxgrip (per 5),0.8753,0.8578,0.8931,0.0,-12.4728,higher value -> lower risk
+eurod,1.0982,1.0844,1.1123,0.0,9.8225,higher value -> higher risk
+bmi (per 5),1.257,1.2173,1.298,0.0,25.701,higher value -> higher risk
+log_income_eq,1.0079,0.985,1.0314,0.5007,0.7934,no clear association
+recall_imm,0.9182,0.9032,0.9334,0.0,-8.1795,higher value -> lower risk

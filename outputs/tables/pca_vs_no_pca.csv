@@ -1,0 +1,5 @@
+feature set,numeric variables,PCs for 80 % variance,PCs for 90 % variance,best k (validation),test AUC PCA + LR,test AUC LR without PCA,difference
+B,8,6,7,k=8,0.7485,0.7504,-0.0019
+C,14,9,11,k=12,0.762,0.763,-0.001
+D,17,11,14,k=16,0.7824,0.7837,-0.0012
+D+T,25,16,19,k=24,0.7885,0.7898,-0.0013

@@ -1,0 +1,5 @@
+model,AUC all,AUC regular only,AUC SHARELIFE only,mean predicted (regular),observed (regular),mean predicted (SHARELIFE),observed (SHARELIFE)
+3 LR (B),0.7504,0.7575,0.739,0.1,0.0833,0.0992,0.1034
+5 Random forest tuned (B),0.7513,0.7568,0.741,0.0996,0.0833,0.1056,0.1034
+10 LR + functional (D),0.7837,0.789,0.7736,0.0943,0.0833,0.0974,0.1034
+13 LR + trend (D+T),0.7898,0.7949,0.7803,0.0927,0.0833,0.0961,0.1034

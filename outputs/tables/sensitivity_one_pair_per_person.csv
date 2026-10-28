@@ -1,0 +1,4 @@
+model,main test AUC (all pairs),one pair per person: mean AUC,sd,min-max,training rows
+3 LR (B),0.7504,0.7499,0.0003,0.7495-0.7505,"39,561 (vs 70,812)"
+10 LR + functional (D),0.7837,0.7826,0.0004,0.7820-0.7832,"39,561 (vs 70,812)"
+13 LR + trend (D+T),0.7898,0.7881,0.0003,0.7876-0.7886,"39,561 (vs 70,812)"

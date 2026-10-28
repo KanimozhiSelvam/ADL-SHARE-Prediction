@@ -1,0 +1,11 @@
+variable,N,point-biserial r,p-value
+age,115155,0.188,<1e-300
+sphus,115109,0.193,<1e-300
+chronic_mod,115070,0.111,2.42e-314
+maxgrip,107917,-0.121,<1e-300
+eurod,97375,0.157,<1e-300
+bmi,112189,0.058,2.79e-83
+thinc_m,98816,-0.054,5.45e-64
+log_income_eq,98816,-0.049,4.85e-53
+recall_imm,113193,-0.138,<1e-300
+recall_del,113192,-0.132,<1e-300

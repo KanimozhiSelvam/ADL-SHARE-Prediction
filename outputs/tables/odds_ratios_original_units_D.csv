@@ -1,0 +1,23 @@
+,OR,CI_low,CI_high,p,odds change %,reading
+age (per 5),1.2884,1.2576,1.32,0.0,28.8401,higher value -> higher risk
+female,0.6435,0.5954,0.6956,0.0,-35.646,higher value -> lower risk
+sphus,1.3398,1.2886,1.393,0.0,33.9797,higher value -> higher risk
+chronic_mod,1.0125,0.99,1.0354,0.2796,1.2452,no clear association
+maxgrip (per 5),0.9008,0.8821,0.9199,0.0,-9.9216,higher value -> lower risk
+eurod,1.036,1.0209,1.0513,0.0,3.6021,higher value -> higher risk
+bmi (per 5),1.1761,1.1377,1.2158,0.0,17.6081,higher value -> higher risk
+log_income_eq,0.9928,0.9661,1.0202,0.6021,-0.7216,no clear association
+recall_imm,0.9599,0.9387,0.9815,0.0003,-4.0114,higher value -> lower risk
+casp,0.9807,0.975,0.9865,0.0,-1.9303,higher value -> lower risk
+recall_del,0.9568,0.9387,0.9753,0.0,-4.32,higher value -> lower risk
+activity_low,1.1045,1.0773,1.1324,0.0,10.4495,higher value -> higher risk
+received_help,1.1855,1.1116,1.2644,0.0,18.5536,higher value -> higher risk
+given_help,0.9097,0.8422,0.9826,0.0162,-9.029,higher value -> lower risk
+living_with_partner,0.9321,0.8667,1.0024,0.0582,-6.7916,no clear association
+hhsize,0.9938,0.955,1.0342,0.759,-0.6215,no clear association
+eduyears_mod,0.997,0.9896,1.0045,0.428,-0.3013,no clear association
+hc002_mod,1.0065,1.0037,1.0093,0.0,0.6505,higher value -> higher risk
+hospital_stay,1.114,1.0402,1.1931,0.002,11.4047,higher value -> higher risk
+mobilityind,1.1838,1.1415,1.2277,0.0,18.38,higher value -> higher risk
+lgmuscle,1.2552,1.2192,1.2922,0.0,25.5184,higher value -> higher risk
+iadlza,1.4379,1.3691,1.5103,0.0,43.7944,higher value -> higher risk

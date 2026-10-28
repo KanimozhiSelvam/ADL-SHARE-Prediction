@@ -1,0 +1,9 @@
+component,eigenvalue,explained_%,cumulative_%,Kaiser (eigenvalue>1)
+PC1,2.11,26.34,26.34,True
+PC2,1.32,16.47,42.81,True
+PC3,0.98,12.19,55.0,False
+PC4,0.92,11.48,66.48,False
+PC5,0.79,9.89,76.37,False
+PC6,0.73,9.18,85.55,False
+PC7,0.59,7.42,92.97,False
+PC8,0.56,7.03,100.0,False
