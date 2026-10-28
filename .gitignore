@@ -1,1 +1,21 @@
+# Raw data
+*.dta
+*.sav
 
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.log
